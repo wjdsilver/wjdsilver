@@ -18,9 +18,38 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 -->
 
-Master's student in Computer Software Engineering
+
 
 ## 📊 Development Statistics
 
-<!--START_SECTION:productive-box-->
-<!--END_SECTION:productive-box-->  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wjdsilver&theme=github"/>
+
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=wjdsilver&theme=github-light"/>
+
+</p>
+
+---
+
+## 📊 Development Statistics
+
+<img src="profile-details"/>
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wjdsilver&theme=nord_bright&utcOffset={utcOffset}
+
+<img height="180" src="https://streak-stats.demolab.com?user=wjdsilver&theme=github-light"/>
+</p>
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wjdsilver&theme=github-compact"/>
+
+---
