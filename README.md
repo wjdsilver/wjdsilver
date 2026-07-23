@@ -23,4 +23,4 @@ Master's student in Computer Software Engineering
 ## 📊 Development Statistics
 
 <!--START_SECTION:productive-box-->
-<!--END_SECTION:productive-box-->
+<!--END_SECTION:productive-box-->  
