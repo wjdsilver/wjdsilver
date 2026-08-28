@@ -65,7 +65,7 @@ Git · Docker
 
 ## 📫 Contact
 
-[🌐 Portfolio](YOUR_PORTFOLIO_URL) · [💼 LinkedIn](https://www.linkedin.com/in/jungeun-kim-262036331?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · [📧 Email](wjdsilver@hanyang.ac.kr)
+[🌐 Portfolio](https://jungeunkim-portfolio.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/jungeun-kim-262036331?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · [📧 Email](wjdsilver@hanyang.ac.kr)
 
 &nbsp;
 
