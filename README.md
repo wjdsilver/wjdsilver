@@ -58,11 +58,11 @@ Python · C · C++ · Java · JavaScript · TypeScript · Dart · Kotlin · SQL 
 
 **AI / Machine Learning**
 
-OpenCV · YOLOv8 · MediaPipe · dlib · PyTorch · Scikit-learn · NetworkX
+OpenCV · YOLOv8 · MediaPipe · dlib · PyTorch · Scikit-learn · NetworkX · Pandas · NumPy
 
 **Web / App Development**
 
-React · Next.js · Django · DRF · Flutter · Tailwind CSS
+React · Next.js · Django · DRF · Tailwind CSS · Flutter · Android Studio
 
 **Development**
 
