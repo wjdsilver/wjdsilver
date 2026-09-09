@@ -52,14 +52,20 @@ AI mock interview system using gaze tracking to provide user feedback.
 
 ## 🛠️ Tech Stack
 
-**AI / Data**  
-Python · PyTorch · Scikit-learn · OpenCV · NetworkX
+**Programming**
+Python · C · C++ · Java · JavaScript · TypeScript · Dart · Kotlin · SQL · HTML · CSS
 
-**Software / Web**  
-C++ · JavaScript · React · Next.js · FastAPI · Flutter
+**AI / Machine Learning**
+OpenCV · YOLOv8 · MediaPipe · dlib · PyTorch · Scikit-learn · NetworkX
 
-**Tools**  
-Git · Docker
+**Web / App Development**
+React · Next.js · Django · DRF · Flutter · Tailwind CSS
+
+**Development**
+Git · GitHub · Jira · VS Code · Vercel
+
+**UI / 3D**
+Figma · Adobe XD · Unity · Unreal Engine · Maya
 
 &nbsp;
 
